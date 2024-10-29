@@ -1,4 +1,4 @@
-Address,City,State,Postal Code,Charging Station Location,Number Of Charge Stand
+Address,City,State,Postal_Code,Charging Station Location,Charge_Stands
 "1000 NW Olympic College Way, Poulsbo, WA 98370",Poulsbo,WA,98370,"47.7774056426997, -122.65904131849484",2
 "21200 Olhava Way NW, Poulsbo, WA 98370",Poulsbo,WA,98370,"47.76263764284079, -122.6617879004727",8
 "19133 Jensen Way NE, Poulsbo, WA 98370",Poulsbo,WA,98370,"47.746480341201085, -122.64805499058342",4
